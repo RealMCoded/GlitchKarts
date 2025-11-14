@@ -1,6 +1,6 @@
-# GlitchKarts
+# [GlitchKarts](https://glitchkarts.com/474c49544348204b41525453)
 
-A localhostable version of GlitchKarts (Project NMKart) that can run without an internet connection in your web browser.
+A localhostable version of [GlitchKarts](https://glitchkarts.com/474c49544348204b41525453) (Project NMKart) that can run without an internet connection in your web browser.
 
 **Due to Github file size limits, the main data file must be downloaded separately.** [Download it from here](https://github.com/RealMCoded/GlitchKarts/releases/download/DataFile/NMKART-HTML5-Shipping.data), and then place it in the data folder.
 
